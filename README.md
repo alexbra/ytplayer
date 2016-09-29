@@ -1,5 +1,7 @@
 # Angular 2 YouTube Player  
 Simple Angular 2 application for palying embeded video from YouTube.
+This is player I made for a real website.
+There are few css and html works. Mostly I worked with Angular 2. In my real project I am going to add lots of css styles to make my player more attractive. 
 
 ## Samples  
 ![main page](https://github.com/alexbra/ytplayer/blob/master/img/ytplayer_1.JPG "Main page")
