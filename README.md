@@ -2,7 +2,11 @@
 Simple Angular 2 application for palying embeded video from YouTube.
 
 ## Samples  
+![main page](https://github.com/alexbra/ytplayer/raw/master/img/ytplayer_1.jpg "Main page")
 
+![grid video](https://github.com/alexbra/ytplayer/raw/master/img/ytplayer_2.jpg "Grid video")
+
+![lightbox video](https://github.com/alexbra/ytplayer/raw/master/img/ytplayer_2.jpg "lightbox video")
 ## Installation
 
 clone this repo
